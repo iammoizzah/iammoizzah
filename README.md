@@ -1,3 +1,7 @@
+<!-- animated typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+[Moizzah Rehman]+%F0%9F%91%8B;" alt="Typing SVG" />
+</p>
 👋 Hi there! I'm Moizzah Rehman
 
 **CS Major | Love to build cool stuff**
