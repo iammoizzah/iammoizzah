@@ -1,10 +1,14 @@
-<!-- animated typing header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+[Moizzah Rehman]+%F0%9F%91%8B;" alt="Typing SVG" />
-</p>
-👋 Hi there! I'm Moizzah Rehman
+<!-- animated wave header -->
+<h1 align="center">
+  Hi there, I'm Moizzah Rehman
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-**CS Major | Love to build cool stuff**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Student+%7C+Summer+Builder;Open+to+Collabs+%26+Internships;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 🚀 what i'm up to
 - 🌱 learning: AI
